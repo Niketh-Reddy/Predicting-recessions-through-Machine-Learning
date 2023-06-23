@@ -1,4 +1,4 @@
-This folder is for "Module 5: Regime Prediction with Machine Learning". The necessary data is under ```data``` folder, and 3 notebook files and one python script are used in the analysis.
+This folder is for "Regime Prediction with Machine Learning". The necessary data is under ```data``` folder, and 3 notebook files and one python script are used in the analysis.
 
 ## code
 
