@@ -2,7 +2,7 @@ This folder is for "Regime Prediction with Machine Learning". The necessary data
 
 ## code
 
-```Part1.ipynb``` Introduces and describes the problem with academic references. Provides a brief overview of the dataset.
+```Part1.ipynb``` Introduces and describes the problem. Provides a brief overview of the dataset.
 
 ```Part2.ipynb``` Data cleaning and feature transformation
 
